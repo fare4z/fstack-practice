@@ -1,5 +1,5 @@
 <?php
-$conn = new mysqli("localhost", "root", "", "booking_db");
+include 'conn.php';
 
 if (isset($_GET['id'])) {
     $id = $_GET['id'];

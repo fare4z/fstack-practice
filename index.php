@@ -8,6 +8,8 @@
 </head>
 <body class="bg-light">
     <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-8 offset-md-2">
         <div class="card shadow">
             <div class="card-header bg-primary text-white">
                 <h4 class="mb-0">Room Booking Form</h4>
@@ -54,5 +56,6 @@
             </div>
         </div>
     </div>
+        </div></div>
 </body>
 </html>
